@@ -2,7 +2,7 @@
 
 ## Descripcion de las actividades 
 Los temas abarcados por lo mismo enunciados: 
--objetos
+- objetos
 
 ## Tecnologia/ Herramientas 🛠️
 - [JavaScript ES6](https://developer.mozilla.org/es/docs/Web/JavaScript)
